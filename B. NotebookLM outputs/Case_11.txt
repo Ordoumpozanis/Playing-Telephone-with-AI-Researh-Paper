@@ -1,0 +1,42 @@
+Based on the sources provided and the criteria specified (counting only trips in September 2024 or September 2025, defining each departure as one trip, and excluding unclear dates), the total number of trips is 9.
+Here is the breakdown of the trips confirmed to have occurred in September 2024 and September 2025:
+September 2024 Trips (Total: 4)
+The table entries provide specific dates and locations, confirming a movement or arrival/departure on that day, thus counting as one trip
+:
+
+1. 10 September 2024: Trip to Valle a
+   .
+2. 12 Septeber 2024: Trip to Mdina
+   .
+3. 13 September 2024: Trip to Gozo Victoria [Rabat]
+   .
+4. 13 September 2024: Trip to Vicoria (counted as a separate movement/trip as listed separately in the source)
+   .
+   Excluded trips for September 2024:
+   • The entry "10-12 September Three ci es [ not clear if back]" is excluded because the number of distinct departures is unclear, violating the requirement to exclude trips with an unclear date
+   .
+   • References to "a previous September visit" or "a prior September trip" are excluded because they are not described or detailed within the sources
+   .
+   September 2025 Trips (Total: 5)
+   These movements relate to the rail leg taken by Johned
+   :
+5. September 2, 2025: Landed in Lisbon and started a rail leg
+   .
+6. September 3, 2025: Reached Porto
+   .
+7. September 5, 2025: Crossed to Vigo
+   .
+8. September 6, 2025: Was in San ago de Compostela
+   .
+9. September 7, 2025: Walked the headlands at A Coruña
+   .
+   Total Count:
+   Month
+
+Confirmed Trips
+Sep 2024
+4
+Sep 2025
+5
+Total
+9

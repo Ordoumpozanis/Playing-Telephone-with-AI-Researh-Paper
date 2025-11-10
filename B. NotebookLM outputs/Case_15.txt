@@ -1,0 +1,35 @@
+Based on the source material and the criteria provided, the total number of confirmed trips (departures) that occurred in September 2024 or September 2025 is 8.
+Here is the breakdown of the counted trips:
+September 2025 Trips (Total: 4)
+These trips relate to John's rail leg following his arrival in Lisbon
+. Each recorded movement between locations is counted as one departure:
+
+1. September 2, 2025: Departure from Lisbon, starting a rail leg
+   . (This was the trip to Porto
+   .)
+2. September 5, 2025: Departure from Porto, crossing to Vigo
+   .
+3. September 6, 2025: Departure from Vigo, traveling to Santiago de Compostela
+   .
+4. September 7, 2025: Departure from Santiago de Compostela, traveling to A Coruña
+   .
+   September 2024 Trips (Total: 4)
+   These trips relate to the island hop described on the postcard from Malta
+   .
+5. September 10, 2024: Departure by ferry from Valletta to the Three Cities at dusk
+   .
+6. September 12, 2024: Departure by bus to Mdina
+   .
+7. September 13, 2024: Departure (crossed) from Malta island to Gozo
+   .
+8. September 13, 2024: Departure (late boat) back from Gozo/Victoria (Rabat)
+   .
+   Excluded Information
+   • The arrival in Valletta on September 10, 2024, is not counted as the preceding departure date is not specified
+   .
+   • The landing in Lisbon on September 2, 2025, is not counted as the specific departure date from Valencia (where he was in August 2025) is unclear
+   .
+   • References to a "previous September visit"
+   and a "prior September trip" are excluded as the dates are not confirmed to fall within September 2024 or September 2025, as required by the exclusion criteria
+   .
+   Total Count: 4 (Sept 2025) + 4 (Sept 2024) = 8

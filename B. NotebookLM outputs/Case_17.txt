@@ -1,0 +1,27 @@
+Based on the sources and the requirement to count each departure as one trip, including returns, only for September 2024 and September 2025, the total number of confirmed trips is 8.
+Trips in September 2025
+John made the following confirmed movements/departures during his rail leg in September 2025:
+
+1. September 3, 2025: A trip that resulted in him reaching Porto, following his arrival in Lisbon on September 2
+   .
+2. September 5, 2025: He crossed to Vigo
+   .
+3. September 6, 2025: A trip that resulted in him being in Santiago de Compostela
+   .
+4. September 7, 2025: A trip that resulted in him arriving at A Coruña
+   .
+   (The subsequent departure from A Coruña before October 2025 is not confirmed to have occurred within September, so it is excluded)
+   . Total for September 2025: 4 trips.
+   Trips in September 2024
+   The individual described in the postcard made the following travel movements in September 2024:
+5. September 10, 2024: After arriving in Valletta, they ferried to the Three Cities at dusk
+   .
+6. September 12, 2024: They took a bus to Mdina
+   .
+7. September 13, 2024: They crossed to Gozo
+   .
+8. September 13, 2024: They spent the day in Victoria (Rabat) before catching the late boat back (a return trip)
+   .
+   Total for September 2024: 4 trips.
+   Grand Total
+   The total across both specified months is 4 (Sept 2025) + 4 (Sept 2024) = 8.

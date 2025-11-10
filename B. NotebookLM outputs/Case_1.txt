@@ -1,0 +1,50 @@
+Based on the provided sources and the rules defined in your query, here is the count of confirmed trips that occurred in September 2024 or September 2025.
+The total number of trips confirmed in September 2024 and September 2025 is 10.
+Trips in September 2025
+There are 5 confirmed trip segments (departures/movements) in September 2025
+:
+1. The departure that resulted in landing in Lisbon on September 2, 2025
+.
+2. The departure from Lisbon leading to reaching Porto on September 3, 2025
+.
+3. The departure leading to crossing to Vigo by September 5, 2025
+.
+4. The departure leading to being in Santiago de Compostela on September 6, 2025
+.
+5. The departure leading to A Coruña on September 7, 2025
+.
+(A mention of a "previous September visit" was excluded as the details and dates were not included or confirmed within the specified range
+).
+Trips in September 2024
+There are 5 confirmed trip segments (departures/movements) documented in a postmarked letter from Malta
+:
+6. The departure that resulted in the arrival in Valletta on September 10, 2024
+.
+7. The departure via ferry to the Three Cities at dusk on September 10, 2024
+.
+8. The departure via bus to Mdina on September 12, 2024
+.
+9. The departure/crossing to Gozo on September 13, 2024
+.
+10. The departure/catching the late boat back (from Gozo) on September 13, 2024
+.
+(A mention of an earlier, prior September trip was excluded as that visit is not described above
+).
+Total Count
+Month
+	
+Confirmed Trips
+	
+Supporting Sources
+September 2025
+	
+5
+	
+September 2024
+	
+5
+	
+TOTAL
+	
+10
+	
